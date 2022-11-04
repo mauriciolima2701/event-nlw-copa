@@ -17,7 +17,7 @@ Evento exclusivo e gratuito, promovido ♥ by <a href="https://www.rocketseat.co
 
 <br>
 <br>
-  <h2 align="center"> Deploy: <a href="#"> Calendario Copa do Mundo</a> </h2>
+  <h2 align="center"> Deploy: <a href="https://event-nlwcopa.vercel.app/"> Calendario Copa do Mundo</a> </h2>
 <br>
 <br>
 <p align="center">
